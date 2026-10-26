@@ -1,0 +1,79 @@
+
+==========================================
+                 PACKWISE
+       A Personalised Packing Assistant
+==========================================
+
+PackWise creates a personalised clothing list using your trip conditions.
+
+Answer the following questions as accurately as possible.
+
+How many days are you travelling for? 
+Daytime weather (hot / warm / mild / cool / cold): 
+Nighttime weather (hot / warm / mild / cool / cold): 
+You can enter more than one occasion.
+Separate each occasion using a comma.
+Planned occasions (casual / beach / dinner / nightlife / formal): 
+Walking level (low / moderate / high): 
+==========================================
+               TRIP SUMMARY
+==========================================
+Duration: 8 days
+Daytime weather: Warm
+Nighttime weather: Cool
+Occasions: Beach, Dinner, Nightlife
+Walking level: High
+
+==========================================
+             YOUR PACKWISE LIST
+==========================================
+
+TOPS
+------------------------------------------
+• 4 T-shirts or lightweight tops
+• 1 smart evening top
+• 1 going-out top
+
+BOTTOMS
+------------------------------------------
+• 3 lightweight bottoms
+• 1 smart evening bottom
+• 1 evening bottom
+
+LAYERS
+------------------------------------------
+• 1 optional light layer
+• 1 warm evening jumper
+
+OUTERWEAR
+------------------------------------------
+• 1 evening jacket
+
+FOOTWEAR
+------------------------------------------
+• 1 pair of sandals or slides
+• 1 pair of dinner shoes
+• 1 pair of going-out shoes
+• 1 pair of supportive walking shoes
+• 1 backup pair of comfortable shoes
+
+EXTRAS + ESSENTIALS
+------------------------------------------
+• 1-2 sets of swimwear
+• 1 beach cover-up
+• 8 pairs of underwear
+• 8 pairs of socks
+• 2 sleepwear set(s)
+• Laundry bag
+
+PACKWISE NOTES
+------------------------------------------
+• Comfortable footwear should be prioritised because your trip involves a high amount of walking.
+• You have several different occasions planned. Choose versatile items that can work across multiple outfits.
+• Pack occasion-specific clothing carefully so it stays clean and presentable during travel.
+
+==========================================
+              PACKWISE COMPLETE
+          Pack smarter, not heavier.
+==========================================
+
